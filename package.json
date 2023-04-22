@@ -1,0 +1,23 @@
+{
+  "name": "@giovanirubim/latlon",
+  "version": "1.0.0",
+  "description": "Implements methods to deal with spherical coordinates",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovanirubim/latlon.git"
+  },
+  "keywords": [
+    "latlon", "spherical", "coordinates", "haversine", "latitude", "longitude"
+  ],
+  "author": "Giovani <giovanirubim.f@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giovanirubim/latlon/issues"
+  },
+  "homepage": "https://github.com/giovanirubim/latlon#readme"
+}
